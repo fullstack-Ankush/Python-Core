@@ -1,3 +1,4 @@
 a = 5
 del a # it delete the variable a and give error on line 3   
-print(a)
+b = 2
+print(id(b))
