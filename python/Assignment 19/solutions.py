@@ -24,3 +24,12 @@ for i in  range(1,len(n)):
     if(n[i-1] == n[i]):
         continue
     print(n[i],end="")
+
+
+
+# solution 5
+
+digits = input("Enter digits ")
+for i in digits :
+    n += 1
+print(n)

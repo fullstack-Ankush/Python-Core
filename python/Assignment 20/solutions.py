@@ -18,4 +18,7 @@ for i in range(1,m+1):
 
 #solution 4
 for i in range(10,0,-1):
-    print(i*5)
+    print(i*n)
+
+#solution 5
+#ALREADY DONE IN SOLUTION 2
