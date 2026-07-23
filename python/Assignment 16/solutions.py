@@ -18,8 +18,18 @@ while(c<=10):
     print(c*c)
     c += 1
 
+
+#solution 4
 d = 1
 while(d<=10):
     print(c**3)
     c += 1
+
+#solution 5
+e = 1
+while(e<=10):
+    print(e*5)
+    e += 1;
+
+
 

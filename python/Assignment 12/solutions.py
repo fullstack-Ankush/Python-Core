@@ -16,6 +16,10 @@ if y % 5 == 0:
 else : 
     print("Non divisible by 5")
 
+
+
+
+
 # solution 3
 z = int(input("Enter a number "))
 
@@ -45,3 +49,4 @@ if(a>b):
     print(a,b)
 else:
     print(b,a)
+
