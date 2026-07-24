@@ -1,16 +1,4 @@
-# # solution 1
 
-# n = int(input("Enter a number "))
-# for i in range(1,n+1):
-#     if(i%2 == 0):
-#         print(i)
-
-# # solution 2
-# for i in range(1,n+1):
-#     if(i%2 == 1):
-#         print(i)
-
-# #solution 3
 # for i in range(1,n+1):
 #     print(i**2)
 
