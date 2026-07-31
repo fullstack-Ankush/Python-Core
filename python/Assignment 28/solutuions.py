@@ -9,3 +9,9 @@ for i in result:
 print(result)
 s = str(result)
 print(s)
+
+# solution 2
+sample2 = "ananya"
+
+for i in sample2:
+    
