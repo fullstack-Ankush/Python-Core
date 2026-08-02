@@ -27,3 +27,4 @@ def is_prime(n):
             return False
     return True
 
+# solution 4 
